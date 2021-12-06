@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Funambol Evaluation</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="victory">Hai vinto!</string>
+    <string name="exit">Esci</string>
+    <string name="reload">Ricarica</string>
+    <string name="q_exit">Vuoi uscire?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
